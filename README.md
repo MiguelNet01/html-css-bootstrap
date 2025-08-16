@@ -8,5 +8,5 @@ Projeto desenvolvido durante os cursos da [Alura](https://www.alura.com.br), com
 - Bootstrap  
 
 ## 📷 Demonstração
-👉 [Acesse o site aqui](https://SEU-USER.github.io/NOME-DO-REPOSITORIO/)  
+👉 [Acesse o site aqui](https://hmtl-css-bootstrap.netlify.app)  
 
